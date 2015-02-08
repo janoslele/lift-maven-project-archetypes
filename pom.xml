@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>eu.janoslele.tools.maven.lift-maven-project-archetypes</groupId>
-  <artifactId>lift-maven-minimal-project-archetype</artifactId>
-  <version>0.1.0</version>
+  <artifactId>lift-maven-fobo-project-archetype</artifactId>
+  <version>0.1.0-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
 
   <name>Lift Maven Project Archetypes</name>

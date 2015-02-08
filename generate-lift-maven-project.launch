@@ -11,8 +11,8 @@
 <listEntry value="package=${string_prompt:package}"/>
 <listEntry value="projectName=${string_prompt:projectName}"/>
 <listEntry value="archetypeGroupId=eu.janoslele.tools.maven.lift-maven-project-archetypes"/>
-<listEntry value="archetypeArtifactId=lift-maven-minimal-project-archetype"/>
-<listEntry value="archetypeVersion=0.1.0"/>
+<listEntry value="archetypeArtifactId=lift-maven-fobo-project-archetype"/>
+<listEntry value="archetypeVersion=0.1.0-SNAPSHOT"/>
 </listAttribute>
 <stringAttribute key="M2_RUNTIME" value="apache-maven-3.1.1"/>
 <booleanAttribute key="M2_SKIP_TESTS" value="false"/>
