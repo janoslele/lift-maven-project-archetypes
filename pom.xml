@@ -4,7 +4,7 @@
 
   <groupId>eu.janoslele.tools.maven.lift-maven-project-archetypes</groupId>
   <artifactId>lift-maven-minimal-project-archetype</artifactId>
-  <version>0.1.0-SNAPSHOT</version>
+  <version>0.1.0</version>
   <packaging>maven-archetype</packaging>
 
   <name>Lift Maven Project Archetypes</name>
