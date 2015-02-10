@@ -1,6 +1,7 @@
 package bootstrap.liftweb
 
 import net.liftweb.http.LiftRules
+import net.liftmodules.FoBo
 
 /**
  * A class that's instantiated early and run.
@@ -17,6 +18,11 @@ class Boot {
 
     // Force the request to be UTF-8
     LiftRules.early.append(_.setCharacterEncoding("UTF-8"))
-
+    
+    FoBo.InitParam.JQuery = FoBo.JQuery1111
+    FoBo.InitParam.ToolKit = FoBo.Bootstrap320
+    
+    FoBo.init()
+    
   }
 }
