@@ -14,11 +14,11 @@
 <listEntry value="archetypeArtifactId=lift-maven-fobo-project-archetype"/>
 <listEntry value="archetypeVersion=0.1.0-SNAPSHOT"/>
 </listAttribute>
-<stringAttribute key="M2_RUNTIME" value="apache-maven-3.1.1"/>
+<stringAttribute key="M2_RUNTIME" value="EMBEDDED"/>
 <booleanAttribute key="M2_SKIP_TESTS" value="false"/>
 <intAttribute key="M2_THREADS" value="1"/>
 <booleanAttribute key="M2_UPDATE_SNAPSHOTS" value="false"/>
 <stringAttribute key="M2_USER_SETTINGS" value=""/>
 <booleanAttribute key="M2_WORKSPACE_RESOLUTION" value="false"/>
-<stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="${workspace_loc:/eu.janoslele.tools.maven.lift-maven-project-archetypes/target}"/>
+<stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="${workspace_loc:/eu.janoslele.tools.maven.lift-maven-project-archetypes.lift-maven-fobo-project-archetype/target}"/>
 </launchConfiguration>
